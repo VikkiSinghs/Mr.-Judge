@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Question Detail</title>
+  </head>
+  <body>
+    <h1>{{ req_qu.statement }}</h1>
+
+    <form method="post">
+      {% csrf_token %} {{ form.as_p }}
+      <button type="submit">Choose</button>
+    </form>
+
+    <h2>Current Votes:</h2>
+    <ul>
+      <li>Option 1 is {{req_qu.option1}}: {{ req_qu.vote1 }}</li>
+      <li>Option 2 is {{req_qu.option2}}: {{ req_qu.vote2 }}</li>
+      <li>Option 3 is {{req_qu.option3}}: {{ req_qu.vote3 }}</li>
+    </ul>
+  </body>
+</html>
