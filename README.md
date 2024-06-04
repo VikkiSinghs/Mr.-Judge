@@ -1,4 +1,3 @@
-<img src="https://github.com/VikkiSinghs/oj/assets/68416943/4cfefc57-0594-4ef0-890e-ba7c70e54009" alt="System components for Online Judge">
 <h1>💡Mr Judge - Product Spec</h1>
 🤔 <b>A coding challenge is a competitive event in which a group of participants solve a set of coding questions within a specified timeframe, typically ranging from a few hours to a few days. Participants who have registered beforehand compete by submitting their solutions, which are
 evaluated against concealed test cases. Based on the test results, participants are assigned scores.</b>
