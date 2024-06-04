@@ -126,5 +126,6 @@ evaluated against concealed test cases. Based on the test results, participants 
     </tr>
   </tbody>
 </table>
+<img src="https://github.com/VikkiSinghs/Mr.-Judge/blob/main/Screenshot%20(13).png" >
 
 <h1>🛫 Plan</h1>
